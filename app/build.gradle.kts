@@ -9,7 +9,7 @@ android {
     buildToolsVersion = Dependencies.android.buildTools
 
     defaultConfig {
-        applicationId = "com.alacrity.template"
+        applicationId = "com.alacrity.testTask"
         minSdk = Android.minSdk
         targetSdk = Android.targetSdk
         versionCode = 1
